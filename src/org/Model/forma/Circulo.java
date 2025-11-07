@@ -1,4 +1,4 @@
-package org.Model;
+package org.Model.forma;
 
 public class Circulo extends Forma {
     private double raio;

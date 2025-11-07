@@ -1,4 +1,4 @@
-package org.Model;
+package org.Model.forma;
 
 public abstract class Forma {
     public abstract double calcularArea();
